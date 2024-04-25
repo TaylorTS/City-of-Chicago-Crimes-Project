@@ -118,3 +118,13 @@ However, we can also see that community areas with high poverty level are not al
    - Combining two data sources, link between crime and poverty level can be found in some community areas, for example, North Lawndale (community area 29), West Englewood (community area 67), and Englewood (community area 68).
    - However, crime was also prevalent in some wealthy neighborhood areas, such as Near North Side (community area 8) and West Town (community area 24).
    - More up-to-date data and indices are needed to further investigate the relationship between crime and poverty.
+
+## Update - 
+A list of the most dominant type of crime (the type of crime that has the most reported cases) in each one of the 77 Chicago’s community areas has been retrieved from the dataset.
+
+Clustering of the same crime type can be observed from the map generated to display the most prevalent type of crime in Chicago (left). The variable Crime Type seems to correlate with both proximity and the economic standing of the neighborhoods. The top 1 type of crime in all City of Chicago is Theft, and it seems to happen mostly in affluent areas, such as the north side of the city, including West Town (Community Area 24), and areas scattered around the southwest side, such as Beverly (Community Area 72). Battery occurred mostly in both central and south side of Chicago in areas with lower economic standings, for example, West Englewood (Community Area 67) and North Lawndale (Community Area 29). Narcotics happened the most around the west side of the city in Austin (Community Area 25), West Garfield (Community Area 26) and the neighborhoods adjacent to them.
+
+<img width="1043" alt="Screen Shot 2024-04-25 at 12 12 56 PM" src="https://github.com/TaylorTS/City-of-Chicago-Crimes-Project/assets/99664400/d9ee4f7d-ddfc-4643-b859-8a239e2964f2">
+
+
+
