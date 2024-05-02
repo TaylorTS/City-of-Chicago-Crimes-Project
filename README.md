@@ -3,7 +3,7 @@
   +	Provide an overview of the reported crime cases reported to the City of Chicago police department
   +	Identify any relationship between crime rate and a community area’s poverty level
 
-## Based on the overarching business questions, the project aims to provide the following analysis
+## Based on the overarching business questions, the project aims to provide the following analyses
   1. Analysis of the data
       -  a. Primary crime types
       -  b. Locations where incidents occurred
